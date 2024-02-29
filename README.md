@@ -1,2 +1,2 @@
-# demojenkins OK
+# demojenkins OK SCM test
 testing jenkin OK
